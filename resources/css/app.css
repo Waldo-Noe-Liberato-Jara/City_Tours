@@ -1,0 +1,27 @@
+.descripcion{
+    width: 3em;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.fondo-blanco{
+    background-color: white;
+    color: rgb(15, 15, 15);
+}
+.fondo-negro{
+    background-color: #201C1C;
+    color: white;
+}
+.borde-img-p{
+    filter: drop-shadow(0 0 0.75rem black);
+}
+.Seleccionado{
+    cursor: pointer;
+}
+.stroke {
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke: 1px black;
+}
+.opacidad{
+    opacity: 0.7;
+}
